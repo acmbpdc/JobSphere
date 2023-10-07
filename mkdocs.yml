@@ -1,0 +1,57 @@
+site_name: JobSphere
+remote_branch: gh-pages
+site_url: https://jobsphere.acmbpdc.org
+site_author: ACM BPDC
+site_description: A collection of resources for all Job Seekers, interns and students seeking to enter the professional world.
+repo_url: https://github.com/acmbpdc/JobSphere
+repo_name: acmbpdc/JobSphere
+
+copyright: Copyright &copy; 2023 - ACM BITS Pilani Dubai Campus
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  logo: assets/ACM_Logo.png
+  favicon: assets/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - header.autohide
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/acmbpdc
+    - icon: fontawesome/brands/github 
+      link: https://github.com/acmbpdc
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/DYQdxquYwP
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - toc:
+      permalink: True 
+
+plugins:
+  - search
