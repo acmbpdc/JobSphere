@@ -2,7 +2,7 @@
 
 This repository contains resources for all things Career related. It is meant for anyone looking to strengthen their CV, professional abilities, for people looking to enter the professional or technical world and so much more!
 
-The content is hosted online at [JobSphere.acmbpdc.org](jobsphere.acmbpdc.org). In this repository, all the content is present on the [docs](docs/) directory as markdown files.
+The content is hosted online at [JobSphere.acmbpdc.org](https://jobsphere.acmbpdc.org). In this repository, all the content is present on the [docs](docs/) directory as markdown files.
 
 
 ## 📝 Contributing
