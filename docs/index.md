@@ -1,4 +1,4 @@
-## JobSphere
+# JobSphere
 
 This project aims to be the ultimate resource for students transitioning into the professional world. Here, you'll find everything you need to land that dream job, all in one convenient location.
 
