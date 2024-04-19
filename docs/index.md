@@ -42,7 +42,7 @@ The following are some global research internship positions:
  
   * Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
 
-  * [Global Research Experience in Advanced Technologies (GREAT) Program, UC Davis](https://great.ucdavis.edu/)
+
   * [ICT Summer Research Program](https://ict.usc.edu/academics/internships/application/)
 
 
@@ -58,10 +58,8 @@ The following are some global research internship positions:
 
 **GERMANY**
   * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
-  * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
-  * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
 
-  * [HZDR Dresden, Summer student program (Germany)](https://www.hzdr.de/db/Cms?pOid=34387&pNid=2519)
+
   * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
   * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
 
