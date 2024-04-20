@@ -12,9 +12,9 @@ This project aims to be the ultimate resource for students transitioning into th
 
 This is just the beginning. We're constantly adding new resources and features to help you navigate the exciting yet challenging world of professional careers. Dive deeper into the following sections to explore what we offer:
 
-1. [Research Internships](#research-internships)
-2. [Career Guides](#career-guides)
-3. [Interview Preparation](#interview-preparation)
+1. [Research Internships](#Research-Internships)
+2. [Career Guides](#Career-Guides)
+3. [Interview Preparation](#Interview-Preparation)
 
 ## 1. Research Internships
 
