@@ -52,6 +52,7 @@ The following are some global research internship positions:
 **SWITZERLAND**
 
 <br>
+
   * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
 
   * [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
@@ -62,6 +63,7 @@ The following are some global research internship positions:
 **GERMANY**
 
 <br >
+
   * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
   * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
   * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
